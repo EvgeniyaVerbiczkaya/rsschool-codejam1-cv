@@ -126,7 +126,16 @@ a {
     height: 400px;
     background: url("https://kvartblog.ru/uploads/post_photo/3701/13003/post_steps7be.jpg");
     background-size: cover;
-    opacity: 0.6;
+}
+
+.summary_text {
+    display: inline-block;
+    width: 800px;
+    margin-top: 90px;
+    margin-left: 112px;
+    padding: 15px;
+    text-align: justify;
+    background: #F8F8F8;
 }
 
 
