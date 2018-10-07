@@ -10,6 +10,27 @@ a {
 }
 
 
+/*navigation*/
+
+.topnav {
+    width: 1024px;
+    display: flex;
+    justify-content: flex-end;
+    position: fixed;
+    background: #F8F8F8;
+}
+
+.topnav a {
+    margin: 7px;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+.topnav a:hover {
+    font-weight: bold;
+}
+
+
 /*about me page*/
 
 .aboutMe {
